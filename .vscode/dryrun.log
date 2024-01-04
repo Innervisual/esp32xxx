@@ -1,0 +1,6 @@
+C:\msys64\mingw64\bin\mingw32-make.exe --dry-run --always-make --keep-going --print-directory
+mingw32-make: Entering directory 'c:/Users/jp_mo/Automotive_C/ESP32/hello_world'
+mingw32-make: Leaving directory 'c:/Users/jp_mo/Automotive_C/ESP32/hello_world'
+ 
+mingw32-make: *** No targets specified and no makefile found.  Stop.
+
